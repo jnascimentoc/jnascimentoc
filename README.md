@@ -30,7 +30,7 @@ Acredito que a área de tecnologia e dados está sempre em constante evolução.
 ## 🌐 Vamos nos conectar!
 Se você quiser saber mais sobre mim ou discutir um projeto interessante, não hesite em me contatar! Estou aberta a oportunidades de colaborar em projetos de análise de dados e Business Intelligence.
 
-- [LinkedIn](https://www.linkedin.com/in/julia-nascimento/)
+- [LinkedIn](https://www.linkedin.com/in/julia-nascimento-b43898208/)
 
 
 <!--
